@@ -1,1152 +1,1152 @@
 [
-  {
-    "Hero": "",
-    "Name": "Miya",
-    "Hero Code": "1",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2016",
-    "Price": "10800 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Balmond",
-    "Hero Code": "2",
-    "Role(s)": "Fighter",
-    "Specialties": "Damage | Regen",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "6500 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Saber",
-    "Hero Code": "3",
-    "Role(s)": "Assassin",
-    "Specialties": "Charge | Reap",
-    "Laning": "Jungler",
-    "Release Year": "2016",
-    "Price": "6500 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Alice",
-    "Hero Code": "4",
-    "Role(s)": "Mage |  Tank",
-    "Specialties": "Charge | Regen",
-    "Laning": "Mid Laner",
-    "Release Year": "2016",
-    "Price": "15000 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Nana",
-    "Hero Code": "5",
-    "Role(s)": "Mage |  Support",
-    "Specialties": "Poke | Guard",
-    "Laning": "Mid Laner",
-    "Release Year": "2016",
-    "Price": "6500 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Tigreal",
-    "Hero Code": "6",
-    "Role(s)": "Tank |  Support",
-    "Specialties": "Crowd Control",
-    "Laning": "Roamer",
-    "Release Year": "2016",
-    "Price": "6500 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Alucard",
-    "Hero Code": "7",
-    "Role(s)": "Fighter |  Assassin",
-    "Specialties": "Chase | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "15000 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Karina",
-    "Hero Code": "8",
-    "Role(s)": "Assassin",
-    "Specialties": "Reap | Magic Damage",
-    "Laning": "Jungler",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Akai",
-    "Hero Code": "9",
-    "Role(s)": "Tank |  Support",
-    "Specialties": "Guard | Crowd Control",
-    "Laning": "Roamer",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Franco",
-    "Hero Code": "10",
-    "Role(s)": "Tank |  Support",
-    "Specialties": "Initiator | Control",
-    "Laning": "Roamer",
-    "Release Year": "2016",
-    "Price": "32000 749"
-  },
-  {
-    "Hero": "",
-    "Name": "Bane",
-    "Hero Code": "11",
-    "Role(s)": "Fighter",
-    "Specialties": "Push | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "6500 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Bruno",
-    "Hero Code": "12",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Burst",
-    "Laning": "Gold Laner",
-    "Release Year": "2016",
-    "Price": "15000 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Clint",
-    "Hero Code": "13",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Burst",
-    "Laning": "Gold Laner",
-    "Release Year": "2016",
-    "Price": "15000 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Rafaela",
-    "Hero Code": "14",
-    "Role(s)": "Support",
-    "Specialties": "Regen | Guard",
-    "Laning": "Roamer",
-    "Release Year": "2016",
-    "Price": "6500 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Eudora",
-    "Hero Code": "15",
-    "Role(s)": "Mage",
-    "Specialties": "Control | Burst",
-    "Laning": "Mid Laner",
-    "Release Year": "2016",
-    "Price": "2000 299"
-  },
-  {
-    "Hero": "",
-    "Name": "Zilong",
-    "Hero Code": "16",
-    "Role(s)": "Fighter |  Assassin",
-    "Specialties": "Chase | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "Free"
-  },
-  {
-    "Hero": "",
-    "Name": "Fanny",
-    "Hero Code": "17",
-    "Role(s)": "Assassin",
-    "Specialties": "Chase | Reap",
-    "Laning": "Jungler",
-    "Release Year": "2016",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Layla",
-    "Hero Code": "18",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2016",
-    "Price": "Free"
-  },
-  {
-    "Hero": "",
-    "Name": "Minotaur",
-    "Hero Code": "19",
-    "Role(s)": "Tank |  Support",
-    "Specialties": "Crowd Control",
-    "Laning": "Roamer",
-    "Release Year": "2016",
-    "Price": "15000 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Lolita",
-    "Hero Code": "20",
-    "Role(s)": "Support |  Tank",
-    "Specialties": "Guard | Crowd Control",
-    "Laning": "Roamer",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Hayabusa",
-    "Hero Code": "21",
-    "Role(s)": "Assassin",
-    "Specialties": "Chase | Burst",
-    "Laning": "Jungler",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Freya",
-    "Hero Code": "22",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "599"
-  },
-  {
-    "Hero": "",
-    "Name": "Gord",
-    "Hero Code": "23",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Burst",
-    "Laning": "Mid Laner",
-    "Release Year": "2016",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Natalia",
-    "Hero Code": "24",
-    "Role(s)": "Assassin",
-    "Specialties": "Chase | Reap",
-    "Laning": "Jungler",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Kagura",
-    "Hero Code": "25",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Reap",
-    "Laning": "Mid Laner",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Chou",
-    "Hero Code": "26",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Sun",
-    "Hero Code": "27",
-    "Role(s)": "Fighter",
-    "Specialties": "Push | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2016",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Alpha",
-    "Hero Code": "28",
-    "Role(s)": "Fighter",
-    "Specialties": "Charge | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Ruby",
-    "Hero Code": "29",
-    "Role(s)": "Fighter |  Tank",
-    "Specialties": "Crowd Control | Regen",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Yi Sun-shin",
-    "Hero Code": "30",
-    "Role(s)": "Assassin |  Marksman",
-    "Specialties": "Reap | Chase",
-    "Laning": "Gold Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Moskov",
-    "Hero Code": "31",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Chase",
-    "Laning": "Gold Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Johnson",
-    "Hero Code": "32",
-    "Role(s)": "Tank",
-    "Specialties": "Support | Crowd Control",
-    "Laning": "Roamer",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Cyclops",
-    "Hero Code": "33",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Control",
-    "Laning": "Mid Laner",
-    "Release Year": "2017",
-    "Price": "15000 399"
-  },
-  {
-    "Hero": "",
-    "Name": "Estes",
-    "Hero Code": "34",
-    "Role(s)": "Support",
-    "Specialties": "Regen | Guard",
-    "Laning": "Roamer",
-    "Release Year": "2017",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Hilda",
-    "Hero Code": "35",
-    "Role(s)": "Fighter |  Tank",
-    "Specialties": "Damage | Regen",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Aurora",
-    "Hero Code": "36",
-    "Role(s)": "Mage",
-    "Specialties": "Crowd Control | Poke",
-    "Laning": "Mid Laner",
-    "Release Year": "2017",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Lapu-Lapu",
-    "Hero Code": "37",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Vexana",
-    "Hero Code": "38",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Control",
-    "Laning": "Mid Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Roger",
-    "Hero Code": "39",
-    "Role(s)": "Fighter |  Marksman",
-    "Specialties": "Reap | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Karrie",
-    "Hero Code": "40",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2017",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Gatotkaca",
-    "Hero Code": "41",
-    "Role(s)": "Tank |  Fighter",
-    "Specialties": "Crowd Control | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Harley",
-    "Hero Code": "42",
-    "Role(s)": "Mage |  Assassin",
-    "Specialties": "Burst | Poke",
-    "Laning": "Jungler",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Irithel",
-    "Hero Code": "43",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Burst",
-    "Laning": "Gold Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Grock",
-    "Hero Code": "44",
-    "Role(s)": "Tank",
-    "Specialties": "Crowd Control | Initiator",
-    "Laning": "Roamer",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Argus",
-    "Hero Code": "45",
-    "Role(s)": "Fighter",
-    "Specialties": "Charge | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Odette",
-    "Hero Code": "46",
-    "Role(s)": "Mage",
-    "Specialties": "Burst | Poke",
-    "Laning": "Mid Laner",
-    "Release Year": "2017",
-    "Price": "20"
-  },
-  {
-    "Hero": "",
-    "Name": "Lancelot",
-    "Hero Code": "47",
-    "Role(s)": "Assassin",
-    "Specialties": "Chase | Burst",
-    "Laning": "Jungler",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Diggie",
-    "Hero Code": "48",
-    "Role(s)": "Support",
-    "Specialties": "Guard | Poke",
-    "Laning": "Roamer",
-    "Release Year": "2017",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Hylos",
-    "Hero Code": "49",
-    "Role(s)": "Tank",
-    "Specialties": "Guard | Initiator",
-    "Laning": "Roamer",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Zhask",
-    "Hero Code": "50",
-    "Role(s)": "Mage",
-    "Specialties": "Chase | Damage",
-    "Laning": "Mid Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Helcurt",
-    "Hero Code": "51",
-    "Role(s)": "Assassin",
-    "Specialties": "Push | Burst",
-    "Laning": "Jungler",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Pharsa",
-    "Hero Code": "52",
-    "Role(s)": "Mage",
-    "Specialties": "Burst | Poke",
-    "Laning": "Mid Laner",
-    "Release Year": "2017",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Lesley",
-    "Hero Code": "53",
-    "Role(s)": "Marksman |  Assassin",
-    "Specialties": "Reap | Burst",
-    "Laning": "Gold Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Jawhead",
-    "Hero Code": "54",
-    "Role(s)": "Fighter",
-    "Specialties": "Charge | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Angela",
-    "Hero Code": "55",
-    "Role(s)": "Support",
-    "Specialties": "Guard | Support",
-    "Laning": "Roamer",
-    "Release Year": "2018",
-    "Price": "24000 499"
-  },
-  {
-    "Hero": "",
-    "Name": "Gusion",
-    "Hero Code": "56",
-    "Role(s)": "Assassin",
-    "Specialties": "Burst | Magic Damage",
-    "Laning": "Jungler",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Valir",
-    "Hero Code": "57",
-    "Role(s)": "Mage",
-    "Specialties": "Damage | Guard",
-    "Laning": "Mid Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Martis",
-    "Hero Code": "58",
-    "Role(s)": "Fighter",
-    "Specialties": "Reap | Charge",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Uranus",
-    "Hero Code": "59",
-    "Role(s)": "Tank",
-    "Specialties": "Regen",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Hanabi",
-    "Hero Code": "60",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Chang'e",
-    "Hero Code": "61",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Burst",
-    "Laning": "Mid Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Kaja",
-    "Hero Code": "62",
-    "Role(s)": "Fighter |  Support",
-    "Specialties": "Control | Charge",
-    "Laning": "Roamer",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Selena",
-    "Hero Code": "63",
-    "Role(s)": "Assassin |  Mage",
-    "Specialties": "Initiator | Reap",
-    "Laning": "Jungler",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Aldous",
-    "Hero Code": "64",
-    "Role(s)": "Fighter",
-    "Specialties": "Burst | Support",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Claude",
-    "Hero Code": "65",
-    "Role(s)": "Marksman",
-    "Specialties": "Burst | Chase",
-    "Laning": "Gold Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Vale",
-    "Hero Code": "66",
-    "Role(s)": "Mage",
-    "Specialties": "Burst | Crowd Control",
-    "Laning": "Mid Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Leomord",
-    "Hero Code": "67",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Lunox",
-    "Hero Code": "68",
-    "Role(s)": "Mage",
-    "Specialties": "Burst | Damage",
-    "Laning": "Mid Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Hanzo",
-    "Hero Code": "69",
-    "Role(s)": "Assassin",
-    "Specialties": "Poke | Burst",
-    "Laning": "Jungler",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Belerick",
-    "Hero Code": "70",
-    "Role(s)": "Tank",
-    "Specialties": "Crowd Control | Regen",
-    "Laning": "Roamer",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Kimmy",
-    "Hero Code": "71",
-    "Role(s)": "Marksman |  Mage",
-    "Specialties": "Damage | Magic Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Thamuz",
-    "Hero Code": "72",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Harith",
-    "Hero Code": "73",
-    "Role(s)": "Mage",
-    "Specialties": "Chase | Damage",
-    "Laning": "Mid Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Minsitthar",
-    "Hero Code": "74",
-    "Role(s)": "Fighter",
-    "Specialties": "Initiator | Crowd Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Kadita",
-    "Hero Code": "75",
-    "Role(s)": "Mage |  Assassin",
-    "Specialties": "Burst | Charge",
-    "Laning": "Mid Laner",
-    "Release Year": "2018",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Faramis",
-    "Hero Code": "76",
-    "Role(s)": "Support |  Mage",
-    "Specialties": "Guard | Charge",
-    "Laning": "Roamer",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Badang",
-    "Hero Code": "77",
-    "Role(s)": "Fighter",
-    "Specialties": "Charge | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Khufra",
-    "Hero Code": "78",
-    "Role(s)": "Tank |  Support",
-    "Specialties": "Initiator | Crowd Control",
-    "Laning": "Roamer",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Granger",
-    "Hero Code": "79",
-    "Role(s)": "Marksman",
-    "Specialties": "Burst | Reap",
-    "Laning": "Gold Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Guinevere",
-    "Hero Code": "80",
-    "Role(s)": "Fighter",
-    "Specialties": "Burst | Magic Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Esmeralda",
-    "Hero Code": "81",
-    "Role(s)": "Mage |  Tank",
-    "Specialties": "Regen | Mixed Damage",
-    "Laning": "Mid Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Terizla",
-    "Hero Code": "82",
-    "Role(s)": "Fighter",
-    "Specialties": "Burst | Crowd Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "X.Borg",
-    "Hero Code": "83",
-    "Role(s)": "Fighter",
-    "Specialties": "Regen | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Ling",
-    "Hero Code": "84",
-    "Role(s)": "Assassin",
-    "Specialties": "Chase | Burst",
-    "Laning": "Jungler",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Dyrroth",
-    "Hero Code": "85",
-    "Role(s)": "Fighter",
-    "Specialties": "Charge | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Lylia",
-    "Hero Code": "86",
-    "Role(s)": "Mage",
-    "Specialties": "Push | Damage",
-    "Laning": "Mid Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Baxia",
-    "Hero Code": "87",
-    "Role(s)": "Tank",
-    "Specialties": "Support | Damage",
-    "Laning": "Roamer",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Masha",
-    "Hero Code": "88",
-    "Role(s)": "Fighter",
-    "Specialties": "Push | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Wanwan",
-    "Hero Code": "89",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Burst",
-    "Laning": "Gold Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Silvanna",
-    "Hero Code": "90",
-    "Role(s)": "Fighter",
-    "Specialties": "Initiator | Magic Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2019",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Cecilion",
-    "Hero Code": "91",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Burst",
-    "Laning": "Mid Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Carmilla",
-    "Hero Code": "92",
-    "Role(s)": "Support",
-    "Specialties": "Crowd Control | Damage",
-    "Laning": "Roamer",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Atlas",
-    "Hero Code": "93",
-    "Role(s)": "Tank |  Support",
-    "Specialties": "Crowd Control | Initiator",
-    "Laning": "Roamer",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Popol and Kupa",
-    "Hero Code": "94",
-    "Role(s)": "Marksman",
-    "Specialties": "Push | Burst",
-    "Laning": "Gold Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Yu Zhong",
-    "Hero Code": "95",
-    "Role(s)": "Fighter",
-    "Specialties": "Regen | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Luo Yi",
-    "Hero Code": "96",
-    "Role(s)": "Mage",
-    "Specialties": "Support | Crowd Control",
-    "Laning": "Mid Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Khaleed",
-    "Hero Code": "98",
-    "Role(s)": "Fighter",
-    "Specialties": "Damage | Regen",
-    "Laning": "EXP Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Benedetta",
-    "Hero Code": "97",
-    "Role(s)": "Assassin",
-    "Specialties": "Chase | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Barats",
-    "Hero Code": "99",
-    "Role(s)": "Tank |  Fighter",
-    "Specialties": "Damage | Crowd Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Brody",
-    "Hero Code": "100",
-    "Role(s)": "Marksman",
-    "Specialties": "Burst | Reap",
-    "Laning": "Gold Laner",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Yve",
-    "Hero Code": "101",
-    "Role(s)": "Mage",
-    "Specialties": "Poke | Burst",
-    "Laning": "Mid Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Mathilda",
-    "Hero Code": "102",
-    "Role(s)": "Support |  Assassin",
-    "Specialties": "Initiator | Guard",
-    "Laning": "Roamer",
-    "Release Year": "2020",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Paquito",
-    "Hero Code": "103",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Damage",
-    "Laning": "EXP Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Gloo",
-    "Hero Code": "104",
-    "Role(s)": "Tank",
-    "Specialties": "Regen | Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Beatrix",
-    "Hero Code": "105",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Phoveus",
-    "Hero Code": "106",
-    "Role(s)": "Fighter",
-    "Specialties": "Chase | Control",
-    "Laning": "EXPLaner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Natan",
-    "Hero Code": "107",
-    "Role(s)": "Marksman",
-    "Specialties": "Burst | Magic Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Aulus",
-    "Hero Code": "108",
-    "Role(s)": "Fighter",
-    "Specialties": "Damage | Crowd Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Aamon",
-    "Hero Code": "109",
-    "Role(s)": "Assassin",
-    "Specialties": "Burst | Magic Damage",
-    "Laning": "Mid Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Valentina",
-    "Hero Code": "111",
-    "Role(s)": "Mage",
-    "Specialties": "Burst | Reap",
-    "Laning": "Mid Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Edith",
-    "Hero Code": "112",
-    "Role(s)": "Tank |  Marksman",
-    "Specialties": "Control | Burst",
-    "Laning": "EXP Laner",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Floryn",
-    "Hero Code": "110",
-    "Role(s)": "Support",
-    "Specialties": "Poke | Guard",
-    "Laning": "Roamer",
-    "Release Year": "2021",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Yin",
-    "Hero Code": "113",
-    "Role(s)": "Fighter",
-    "Specialties": "Burst | Control",
-    "Laning": "EXP Laner",
-    "Release Year": "2022",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Melissa",
-    "Hero Code": "114",
-    "Role(s)": "Marksman",
-    "Specialties": "Reap | Damage",
-    "Laning": "Gold Laner",
-    "Release Year": "2022",
-    "Price": "32000 599"
-  },
-  {
-    "Hero": "",
-    "Name": "Xavier",
-    "Hero Code": "115",
-    "Role(s)": "Mage",
-    "Specialties": "Damage | Guard",
-    "Laning": "Mid Laner",
-    "Release Year": "2022",
-    "Price": "32000 599"
-  }
+	{
+		"Hero": "",
+		"Name": "Aamon",
+		"Hero Code": "109",
+		"Role(s)": "Assassin",
+		"Specialties": "Burst | Magic Damage",
+		"Laning": "Mid Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Akai",
+		"Hero Code": "9",
+		"Role(s)": "Tank |  Support",
+		"Specialties": "Guard | Crowd Control",
+		"Laning": "Roamer",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Aldous",
+		"Hero Code": "64",
+		"Role(s)": "Fighter",
+		"Specialties": "Burst | Support",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Alice",
+		"Hero Code": "4",
+		"Role(s)": "Mage |  Tank",
+		"Specialties": "Charge | Regen",
+		"Laning": "Mid Laner",
+		"Release Year": "2016",
+		"Price": "15000 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Alpha",
+		"Hero Code": "28",
+		"Role(s)": "Fighter",
+		"Specialties": "Charge | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Alucard",
+		"Hero Code": "7",
+		"Role(s)": "Fighter |  Assassin",
+		"Specialties": "Chase | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "15000 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Angela",
+		"Hero Code": "55",
+		"Role(s)": "Support",
+		"Specialties": "Guard | Support",
+		"Laning": "Roamer",
+		"Release Year": "2018",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Argus",
+		"Hero Code": "45",
+		"Role(s)": "Fighter",
+		"Specialties": "Charge | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Atlas",
+		"Hero Code": "93",
+		"Role(s)": "Tank |  Support",
+		"Specialties": "Crowd Control | Initiator",
+		"Laning": "Roamer",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Aulus",
+		"Hero Code": "108",
+		"Role(s)": "Fighter",
+		"Specialties": "Damage | Crowd Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Aurora",
+		"Hero Code": "36",
+		"Role(s)": "Mage",
+		"Specialties": "Crowd Control | Poke",
+		"Laning": "Mid Laner",
+		"Release Year": "2017",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Badang",
+		"Hero Code": "77",
+		"Role(s)": "Fighter",
+		"Specialties": "Charge | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Balmond",
+		"Hero Code": "2",
+		"Role(s)": "Fighter",
+		"Specialties": "Damage | Regen",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "6500 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Bane",
+		"Hero Code": "11",
+		"Role(s)": "Fighter",
+		"Specialties": "Push | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "6500 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Barats",
+		"Hero Code": "99",
+		"Role(s)": "Tank |  Fighter",
+		"Specialties": "Damage | Crowd Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Baxia",
+		"Hero Code": "87",
+		"Role(s)": "Tank",
+		"Specialties": "Support | Damage",
+		"Laning": "Roamer",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Beatrix",
+		"Hero Code": "105",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Belerick",
+		"Hero Code": "70",
+		"Role(s)": "Tank",
+		"Specialties": "Crowd Control | Regen",
+		"Laning": "Roamer",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Benedetta",
+		"Hero Code": "97",
+		"Role(s)": "Assassin",
+		"Specialties": "Chase | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Brody",
+		"Hero Code": "100",
+		"Role(s)": "Marksman",
+		"Specialties": "Burst | Reap",
+		"Laning": "Gold Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Bruno",
+		"Hero Code": "12",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Burst",
+		"Laning": "Gold Laner",
+		"Release Year": "2016",
+		"Price": "15000 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Carmilla",
+		"Hero Code": "92",
+		"Role(s)": "Support",
+		"Specialties": "Crowd Control | Damage",
+		"Laning": "Roamer",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Cecilion",
+		"Hero Code": "91",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Burst",
+		"Laning": "Mid Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Chang'e",
+		"Hero Code": "61",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Burst",
+		"Laning": "Mid Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Chou",
+		"Hero Code": "26",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Claude",
+		"Hero Code": "65",
+		"Role(s)": "Marksman",
+		"Specialties": "Burst | Chase",
+		"Laning": "Gold Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Clint",
+		"Hero Code": "13",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Burst",
+		"Laning": "Gold Laner",
+		"Release Year": "2016",
+		"Price": "15000 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Cyclops",
+		"Hero Code": "33",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Control",
+		"Laning": "Mid Laner",
+		"Release Year": "2017",
+		"Price": "15000 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Diggie",
+		"Hero Code": "48",
+		"Role(s)": "Support",
+		"Specialties": "Guard | Poke",
+		"Laning": "Roamer",
+		"Release Year": "2017",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Dyrroth",
+		"Hero Code": "85",
+		"Role(s)": "Fighter",
+		"Specialties": "Charge | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Edith",
+		"Hero Code": "112",
+		"Role(s)": "Tank |  Marksman",
+		"Specialties": "Control | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Esmeralda",
+		"Hero Code": "81",
+		"Role(s)": "Mage |  Tank",
+		"Specialties": "Regen | Mixed Damage",
+		"Laning": "Mid Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Estes",
+		"Hero Code": "34",
+		"Role(s)": "Support",
+		"Specialties": "Regen | Guard",
+		"Laning": "Roamer",
+		"Release Year": "2017",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Eudora",
+		"Hero Code": "15",
+		"Role(s)": "Mage",
+		"Specialties": "Control | Burst",
+		"Laning": "Mid Laner",
+		"Release Year": "2016",
+		"Price": "2000 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Fanny",
+		"Hero Code": "17",
+		"Role(s)": "Assassin",
+		"Specialties": "Chase | Reap",
+		"Laning": "Jungler",
+		"Release Year": "2016",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Faramis",
+		"Hero Code": "76",
+		"Role(s)": "Support |  Mage",
+		"Specialties": "Guard | Charge",
+		"Laning": "Roamer",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Floryn",
+		"Hero Code": "110",
+		"Role(s)": "Support",
+		"Specialties": "Poke | Guard",
+		"Laning": "Roamer",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Franco",
+		"Hero Code": "10",
+		"Role(s)": "Tank |  Support",
+		"Specialties": "Initiator | Control",
+		"Laning": "Roamer",
+		"Release Year": "2016",
+		"Price": "32000 749"
+	},
+	{
+		"Hero": "",
+		"Name": "Freya",
+		"Hero Code": "22",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "599"
+	},
+	{
+		"Hero": "",
+		"Name": "Gatotkaca",
+		"Hero Code": "41",
+		"Role(s)": "Tank |  Fighter",
+		"Specialties": "Crowd Control | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Gloo",
+		"Hero Code": "104",
+		"Role(s)": "Tank",
+		"Specialties": "Regen | Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Gord",
+		"Hero Code": "23",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Burst",
+		"Laning": "Mid Laner",
+		"Release Year": "2016",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Granger",
+		"Hero Code": "79",
+		"Role(s)": "Marksman",
+		"Specialties": "Burst | Reap",
+		"Laning": "Gold Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Grock",
+		"Hero Code": "44",
+		"Role(s)": "Tank",
+		"Specialties": "Crowd Control | Initiator",
+		"Laning": "Roamer",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Guinevere",
+		"Hero Code": "80",
+		"Role(s)": "Fighter",
+		"Specialties": "Burst | Magic Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Gusion",
+		"Hero Code": "56",
+		"Role(s)": "Assassin",
+		"Specialties": "Burst | Magic Damage",
+		"Laning": "Jungler",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Hanabi",
+		"Hero Code": "60",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Hanzo",
+		"Hero Code": "69",
+		"Role(s)": "Assassin",
+		"Specialties": "Poke | Burst",
+		"Laning": "Jungler",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Harith",
+		"Hero Code": "73",
+		"Role(s)": "Mage",
+		"Specialties": "Chase | Damage",
+		"Laning": "Mid Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Harley",
+		"Hero Code": "42",
+		"Role(s)": "Mage |  Assassin",
+		"Specialties": "Burst | Poke",
+		"Laning": "Jungler",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Hayabusa",
+		"Hero Code": "21",
+		"Role(s)": "Assassin",
+		"Specialties": "Chase | Burst",
+		"Laning": "Jungler",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Helcurt",
+		"Hero Code": "51",
+		"Role(s)": "Assassin",
+		"Specialties": "Push | Burst",
+		"Laning": "Jungler",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Hilda",
+		"Hero Code": "35",
+		"Role(s)": "Fighter |  Tank",
+		"Specialties": "Damage | Regen",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Hylos",
+		"Hero Code": "49",
+		"Role(s)": "Tank",
+		"Specialties": "Guard | Initiator",
+		"Laning": "Roamer",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Irithel",
+		"Hero Code": "43",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Burst",
+		"Laning": "Gold Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Jawhead",
+		"Hero Code": "54",
+		"Role(s)": "Fighter",
+		"Specialties": "Charge | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Johnson",
+		"Hero Code": "32",
+		"Role(s)": "Tank",
+		"Specialties": "Support | Crowd Control",
+		"Laning": "Roamer",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Kadita",
+		"Hero Code": "75",
+		"Role(s)": "Mage |  Assassin",
+		"Specialties": "Burst | Charge",
+		"Laning": "Mid Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Kagura",
+		"Hero Code": "25",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Reap",
+		"Laning": "Mid Laner",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Kaja",
+		"Hero Code": "62",
+		"Role(s)": "Fighter |  Support",
+		"Specialties": "Control | Charge",
+		"Laning": "Roamer",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Karina",
+		"Hero Code": "8",
+		"Role(s)": "Assassin",
+		"Specialties": "Reap | Magic Damage",
+		"Laning": "Jungler",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Karrie",
+		"Hero Code": "40",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2017",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Khaleed",
+		"Hero Code": "98",
+		"Role(s)": "Fighter",
+		"Specialties": "Damage | Regen",
+		"Laning": "EXP Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Khufra",
+		"Hero Code": "78",
+		"Role(s)": "Tank |  Support",
+		"Specialties": "Initiator | Crowd Control",
+		"Laning": "Roamer",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Kimmy",
+		"Hero Code": "71",
+		"Role(s)": "Marksman |  Mage",
+		"Specialties": "Damage | Magic Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Lancelot",
+		"Hero Code": "47",
+		"Role(s)": "Assassin",
+		"Specialties": "Chase | Burst",
+		"Laning": "Jungler",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Lapu-Lapu",
+		"Hero Code": "37",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Layla",
+		"Hero Code": "18",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2016",
+		"Price": "Free"
+	},
+	{
+		"Hero": "",
+		"Name": "Leomord",
+		"Hero Code": "67",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Lesley",
+		"Hero Code": "53",
+		"Role(s)": "Marksman |  Assassin",
+		"Specialties": "Reap | Burst",
+		"Laning": "Gold Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Ling",
+		"Hero Code": "84",
+		"Role(s)": "Assassin",
+		"Specialties": "Chase | Burst",
+		"Laning": "Jungler",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Lolita",
+		"Hero Code": "20",
+		"Role(s)": "Support |  Tank",
+		"Specialties": "Guard | Crowd Control",
+		"Laning": "Roamer",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Lunox",
+		"Hero Code": "68",
+		"Role(s)": "Mage",
+		"Specialties": "Burst | Damage",
+		"Laning": "Mid Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Luo Yi",
+		"Hero Code": "96",
+		"Role(s)": "Mage",
+		"Specialties": "Support | Crowd Control",
+		"Laning": "Mid Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Lylia",
+		"Hero Code": "86",
+		"Role(s)": "Mage",
+		"Specialties": "Push | Damage",
+		"Laning": "Mid Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Martis",
+		"Hero Code": "58",
+		"Role(s)": "Fighter",
+		"Specialties": "Reap | Charge",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Masha",
+		"Hero Code": "88",
+		"Role(s)": "Fighter",
+		"Specialties": "Push | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Mathilda",
+		"Hero Code": "102",
+		"Role(s)": "Support |  Assassin",
+		"Specialties": "Initiator | Guard",
+		"Laning": "Roamer",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Melissa",
+		"Hero Code": "114",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2022",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Minotaur",
+		"Hero Code": "19",
+		"Role(s)": "Tank |  Support",
+		"Specialties": "Crowd Control",
+		"Laning": "Roamer",
+		"Release Year": "2016",
+		"Price": "15000 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Minsitthar",
+		"Hero Code": "74",
+		"Role(s)": "Fighter",
+		"Specialties": "Initiator | Crowd Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Miya",
+		"Hero Code": "1",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2016",
+		"Price": "10800 399"
+	},
+	{
+		"Hero": "",
+		"Name": "Moskov",
+		"Hero Code": "31",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Chase",
+		"Laning": "Gold Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Nana",
+		"Hero Code": "5",
+		"Role(s)": "Mage |  Support",
+		"Specialties": "Poke | Guard",
+		"Laning": "Mid Laner",
+		"Release Year": "2016",
+		"Price": "6500 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Natalia",
+		"Hero Code": "24",
+		"Role(s)": "Assassin",
+		"Specialties": "Chase | Reap",
+		"Laning": "Jungler",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Natan",
+		"Hero Code": "107",
+		"Role(s)": "Marksman",
+		"Specialties": "Burst | Magic Damage",
+		"Laning": "Gold Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Odette",
+		"Hero Code": "46",
+		"Role(s)": "Mage",
+		"Specialties": "Burst | Poke",
+		"Laning": "Mid Laner",
+		"Release Year": "2017",
+		"Price": "20"
+	},
+	{
+		"Hero": "",
+		"Name": "Paquito",
+		"Hero Code": "103",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Pharsa",
+		"Hero Code": "52",
+		"Role(s)": "Mage",
+		"Specialties": "Burst | Poke",
+		"Laning": "Mid Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Phoveus",
+		"Hero Code": "106",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Control",
+		"Laning": "EXPLaner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Popol and Kupa",
+		"Hero Code": "94",
+		"Role(s)": "Marksman",
+		"Specialties": "Push | Burst",
+		"Laning": "Gold Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Rafaela",
+		"Hero Code": "14",
+		"Role(s)": "Support",
+		"Specialties": "Regen | Guard",
+		"Laning": "Roamer",
+		"Release Year": "2016",
+		"Price": "6500 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Roger",
+		"Hero Code": "39",
+		"Role(s)": "Fighter |  Marksman",
+		"Specialties": "Reap | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "24000 499"
+	},
+	{
+		"Hero": "",
+		"Name": "Ruby",
+		"Hero Code": "29",
+		"Role(s)": "Fighter |  Tank",
+		"Specialties": "Crowd Control | Regen",
+		"Laning": "EXP Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Saber",
+		"Hero Code": "3",
+		"Role(s)": "Assassin",
+		"Specialties": "Charge | Reap",
+		"Laning": "Jungler",
+		"Release Year": "2016",
+		"Price": "6500 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Selena",
+		"Hero Code": "63",
+		"Role(s)": "Assassin |  Mage",
+		"Specialties": "Initiator | Reap",
+		"Laning": "Jungler",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Silvanna",
+		"Hero Code": "90",
+		"Role(s)": "Fighter",
+		"Specialties": "Initiator | Magic Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Sun",
+		"Hero Code": "27",
+		"Role(s)": "Fighter",
+		"Specialties": "Push | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Terizla",
+		"Hero Code": "82",
+		"Role(s)": "Fighter",
+		"Specialties": "Burst | Crowd Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Thamuz",
+		"Hero Code": "72",
+		"Role(s)": "Fighter",
+		"Specialties": "Chase | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Tigreal",
+		"Hero Code": "6",
+		"Role(s)": "Tank |  Support",
+		"Specialties": "Crowd Control",
+		"Laning": "Roamer",
+		"Release Year": "2016",
+		"Price": "6500 299"
+	},
+	{
+		"Hero": "",
+		"Name": "Uranus",
+		"Hero Code": "59",
+		"Role(s)": "Tank",
+		"Specialties": "Regen",
+		"Laning": "EXP Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Vale",
+		"Hero Code": "66",
+		"Role(s)": "Mage",
+		"Specialties": "Burst | Crowd Control",
+		"Laning": "Mid Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Valentina",
+		"Hero Code": "111",
+		"Role(s)": "Mage",
+		"Specialties": "Burst | Reap",
+		"Laning": "Mid Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Valir",
+		"Hero Code": "57",
+		"Role(s)": "Mage",
+		"Specialties": "Damage | Guard",
+		"Laning": "Mid Laner",
+		"Release Year": "2018",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Vexana",
+		"Hero Code": "38",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Control",
+		"Laning": "Mid Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Wanwan",
+		"Hero Code": "89",
+		"Role(s)": "Marksman",
+		"Specialties": "Reap | Burst",
+		"Laning": "Gold Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "X.Borg",
+		"Hero Code": "83",
+		"Role(s)": "Fighter",
+		"Specialties": "Regen | Burst",
+		"Laning": "EXP Laner",
+		"Release Year": "2019",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Xavier",
+		"Hero Code": "115",
+		"Role(s)": "Mage",
+		"Specialties": "Damage | Guard",
+		"Laning": "Mid Laner",
+		"Release Year": "2022",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Yi Sun-shin",
+		"Hero Code": "30",
+		"Role(s)": "Assassin |  Marksman",
+		"Specialties": "Reap | Chase",
+		"Laning": "Gold Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Yin",
+		"Hero Code": "113",
+		"Role(s)": "Fighter",
+		"Specialties": "Burst | Control",
+		"Laning": "EXP Laner",
+		"Release Year": "2022",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Yu Zhong",
+		"Hero Code": "95",
+		"Role(s)": "Fighter",
+		"Specialties": "Regen | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2020",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Yve",
+		"Hero Code": "101",
+		"Role(s)": "Mage",
+		"Specialties": "Poke | Burst",
+		"Laning": "Mid Laner",
+		"Release Year": "2021",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Zhask",
+		"Hero Code": "50",
+		"Role(s)": "Mage",
+		"Specialties": "Chase | Damage",
+		"Laning": "Mid Laner",
+		"Release Year": "2017",
+		"Price": "32000 599"
+	},
+	{
+		"Hero": "",
+		"Name": "Zilong",
+		"Hero Code": "16",
+		"Role(s)": "Fighter |  Assassin",
+		"Specialties": "Chase | Damage",
+		"Laning": "EXP Laner",
+		"Release Year": "2016",
+		"Price": "Free"
+	}
 ]
